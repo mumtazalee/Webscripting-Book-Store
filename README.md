@@ -1,5 +1,5 @@
-script.js
-Login.html
-index.html
-style.css
-image folder
+script.js, 
+Login.html, 
+index.html, 
+style.css, 
+image folder, 
